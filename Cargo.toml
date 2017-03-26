@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Lucille Blumire <llblumire@gmail.com>"]
 
 [dependencies]
-rand = "*"
+rayon = "*"
 typemap = "*"
